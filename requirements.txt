@@ -8,7 +8,7 @@ idna==3.7
 ifaddr==0.2.0
 pylgtv==0.1.9
 pywebostv==0.8.9
-requests==2.31.0
+requests==2.32.0
 sqlitedict==2.1.0
 urllib3==2.2.1
 websockets==12.0
